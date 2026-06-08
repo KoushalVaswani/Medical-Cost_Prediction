@@ -1,4 +1,4 @@
-# Medical Cost Prediction using Machine Learning
+# Medical Cost Prediction
 
 This project predicts the **Annual Medical Cost** of an individual based on various demographic, health, and insurance-related features. It implements and compares **Linear Regression** and **Random Forest Regressor** models to find the most accurate prediction algorithm.
 
