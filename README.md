@@ -44,4 +44,4 @@ The **Random Forest** model delivers an outstanding **MAPE of 10.14%**, meaning 
 
 1. **Clone the Repository:**
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/KoushalVaswani/Medical-Cost_Prediction.git](https://github.com/KoushalVaswani/Medical-Cost_Prediction.git)
